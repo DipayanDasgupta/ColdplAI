@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+venv/
+*.pyc
+
+# Generated Data & Models (don't upload these)
+models/
+outputs/
+data/all_tokens.json
+
+# System files
+.DS_Store

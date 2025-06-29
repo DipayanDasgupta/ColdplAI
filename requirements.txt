@@ -1,0 +1,7 @@
+torch
+transformers
+miditok==3.0.6
+numpy
+tokenizers
+accelerate
+# We no longer need pandas or pretty_midi
