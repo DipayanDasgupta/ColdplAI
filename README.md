@@ -33,7 +33,7 @@ Cold_AI/
 
 **1. Clone the repository:**
 ```bash
-https://github.com/DipayanDasgupta/ColdplAI.git
+git clone https://github.com/DipayanDasgupta/ColdplAI.git
 cd ColdplAI
 ```
 
