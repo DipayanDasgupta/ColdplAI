@@ -33,8 +33,8 @@ Cold_AI/
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/Cold_AI.git
-cd Cold_AI
+https://github.com/DipayanDasgupta/ColdplAI.git
+cd ColdplAI
 ```
 
 **2. Create and activate a Python virtual environment:**
